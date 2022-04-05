@@ -4,9 +4,9 @@ This project proposed VGG16 model using transfer learning, fine-tuning technique
 
 ## Datasets 
 Dataset contains 3 folders, namely:
-Covid: contains lung x-ray images with covid-19 disease
-Pneumonia:contains lung x-ray images with pneumonia disease
-Normal: contains healthy lung x-ray images
+- Covid: contains lung x-ray images with covid-19 disease
+- Pneumonia:contains lung x-ray images with pneumonia disease
+- Normal: contains healthy lung x-ray images
 
 ## Transfer learning and fine tuning
 ![image](https://user-images.githubusercontent.com/36075177/161779271-d7caf194-a366-479b-b77a-e9bd81eb282b.png) <br/>
